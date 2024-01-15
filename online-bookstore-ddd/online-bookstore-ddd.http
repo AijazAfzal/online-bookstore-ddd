@@ -1,0 +1,6 @@
+@online_bookstore_ddd_HostAddress = http://localhost:5096
+
+GET {{online_bookstore_ddd_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
